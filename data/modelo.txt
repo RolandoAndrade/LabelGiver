@@ -1,9 +1,9 @@
 Representación abstracta y simple de una parte de la realidad.
 Cosa que sirve como pauta para ser imitada, reproducida o copiada.
-Persona que merece ser imitada por sus buenas cualidades.
-Representación de un objeto a pequeña escala.
+Representación simple e ideal de aquel, constituido por símbolos y operaciones (relaciones) matemáticas.
+Formulismo matemático para expresar relación.
 Representación de una categoría o tipo de cosas definidas por ciertas características.
-Esquema teórico que representación una realidad compleja o un proceso complicado y que sirve para facilitar su comprensión.
+Esquema teórico que representación una realidad compleja o un procesos complicado y que sirve para facilitar su comprensión.
 Representación abstracta, conceptual, gráfica o visual, física de fenómenos, sistemas o procesos a fin de analizar, describir, explicar, simular esos fenómenos o procesos.
 Manera que es capaz de ser abstracta y analizar por fuera de su simple aplicación práctica.
 Representación que se hacen de forma imaginaria sobre la realidad.
@@ -11,11 +11,11 @@ Representación de la realidad.
 Explicación de un fenómeno ideal digno de imitada.
 Paradigma, canon, patrón o guía de acción.
 Idealización de la realidad.
-Arquetipo, prototipo, uno entre una serie de objetos similares, un conjunto de elementos esenciales o los supuestos teóricos de un sistema social.
+Arquetipo, prototipo, representación uno entre una serie de objetos similares, un conjunto de elementos esenciales o los supuestos teóricos de un sistema social.
 Representación parcial de la realidad
-Explicación de un fenómeno o proceso específico, visto siempre desde el punto de vista de su autor.
+Explicación de un fenómeno o procesos específico, visto siempre desde el punto de vista de su autor.
 Patrón a seguir o muestra para conocer algo.
-Esquema utilizado para probar una hipótesis o una teoría, o tan sólo para poder explicar un proceso o una abstracta.
+Esquema utilizado para probar una hipótesis o una teoría, o tan sólo para poder explicar un procesos o una abstracta.
 Representación de un hecho o fenómeno propuesta como ideal a seguir. 
 Pretende mostrar las características generales de la estructura de dicho fenómeno, explicar sus elementos, mecanismos y procesos, cómo se relación y los aspectos teóricos que le dan sustento, para facilitar su comprensión.
 Representación simple de la relación entre distintas variables.

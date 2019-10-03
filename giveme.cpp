@@ -61,24 +61,31 @@ vector<pair<string, int>> results(map<string, int> m)
 
 int main(int argc, char const *argv[])
 {
-	freopen("data/modelo.txt","r",stdin);
-	string s;
-	map<string, int> m;
-	int i = 0;
-	while(getline(cin, s))
+	if(freopen(argv[1],"r",stdin))
 	{
-		addToMap(m, getWords(s));
-		i++;
-	}
-	cout<<"Leídos "<<i<<" ejemplos"<<endl;
+			string s;
+		map<string, int> m;
+		int i = 0;
+		while(getline(cin, s))
+		{
+			addToMap(m, getWords(s));
+			i++;
+		}
+		cout<<"Leídos "<<i<<" ejemplos"<<endl;
 
-	vector<pair<string, int>> r = results(m);
-	int j = 0;
-	for(auto &t: r)
-	{
-		cout<<t.first<<" = "<<t.second<<", "<<(t.second*100/i)<<"%"<<endl;
-		j++;
+		vector<pair<string, int>> r = results(m);
+		int j = 0;
+		for(auto &t: r)
+		{
+			cout<<t.first<<" = "<<t.second<<", "<<(t.second*100/i)<<"%"<<endl;
+			j++;
+		}
+		cout<<"Total de palabras extraídas "<<j<<endl;
 	}
-	cout<<"Total de palabras extraídas "<<j<<endl;
+	else
+	{
+		cout<<"Archivo no encontrado"<<endl;
+	}
+
 	return 0;
 }
