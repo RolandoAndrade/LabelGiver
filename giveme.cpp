@@ -8,7 +8,7 @@
 #include <set>
 
 using namespace std;
-
+//Rolando Andrade
 string upcase(string s)
 {
 	for(char &c: s)
